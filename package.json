@@ -1,0 +1,11 @@
+{
+  "name": "testci",
+  "version": "1.0.0",
+  "description": "<h1>Phan Thị Kim Thoa</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
